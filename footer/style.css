@@ -1,0 +1,110 @@
+/* body */
+body{
+    letter-spacing:2px;
+}
+/* footer top */
+.footer-top{
+   padding-top: 40px ;
+    margin: 0;
+    background: 	#505050;
+   
+ }
+ 
+ /*  */
+.logo{
+    height: 100px;
+    width:200px;
+    padding:3px;
+    margin: 10px;
+}
+/* segument one  */
+.segment-one p a {
+ background:#c65039;
+ color: #fff;
+ margin: 4px 2px;
+ padding: 4px 4px;
+ text-align: center;
+ border-radius: 10px;
+}
+/* segument two */
+.segment-tow ul li a{
+    letter-spacing: 2px;
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.segment-tow ul{
+    list-style: none;
+    color: #fff;
+}
+
+/* segument three */
+.segment-three ul li a{
+    letter-spacing: 2px;
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.segment-three ul{
+    list-style: none;
+}
+/* segument four  */
+
+.segment-four ul li a{
+    letter-spacing: 2px;
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.segment-four ul{
+    list-style: none;
+}
+.segment-four h5{
+    margin: -5px 0;
+}
+
+
+.segment-five a{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background: #424646;
+
+}
+.segment-five a:hover{
+    background: #fff;
+}
+.segment-five a.insta:hover{
+    color: #e340c5;
+}
+.segment-five a.youtube:hover{
+    color: #f00;
+}
+.segment-five a svg{
+    font-size: 20px;
+    margin: 10px;
+}
+/* H55555555555 */
+h5{
+    padding-top: 30px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+    text-transform:capitalize;
+}
+h5::before{
+    content: "|";
+    color:#c65039;
+    padding-right: 10px;
+}
+.copyr{
+    background: #555;
+    line-height:80px;
+    color: #c7d8d9;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
